@@ -9,5 +9,7 @@ public class Main {
         System.out.println("Hello, world!" + a + b);
 
         System.out.println(a + b);
+
+        // new
     }
 }
